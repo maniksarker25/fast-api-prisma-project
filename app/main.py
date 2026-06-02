@@ -69,7 +69,7 @@ async def root():
 
     return {
         "success": True,
-        "message": "Server is running"
+        "message": "Server is running hahaha"
     }
 
 # API ROUTES ----------------
